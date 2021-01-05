@@ -1,10 +1,13 @@
 const FILES_TO_CACHE = [
     "/",
+    "/db.js",
+    "/index.js",
     "/index.html",
+    "/api/transaction",
     "/assets/css/style.css",
-    "/dist/bundle.js",
-    "/icons/icon-192x192.jpng",
-    "/icons/icon-512x512.jpng",
+    "/manifest.json",
+    "/icons/icon-192x192.png",
+    "/icons/icon-512x512.png",
 ];
 
 const STATIC_CACHE = "static-cache-v1";
